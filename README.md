@@ -1,2 +1,2 @@
 # zkStudy
-study zk, including self-implementation of zab
+study zk, including self-implementation of fastLeaderElection and zk api tests
